@@ -1,0 +1,1406 @@
+*{
+	margin: 0;
+	padding: 0;x
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #3D3D3D;
+}
+/*----------------------------------------------------------------------------LANDING ACTIVACION DE MARCA*/
+.estilo1{
+    width: 400px;
+    border-radius: 10px;
+    border-left: 17px solid #E4770A;
+    border-top: 5px solid #E4770A;
+    border-right: 5px solid #E4770A;
+    border-bottom: 5px solid #E4770A;  
+}
+.todomarca{
+   background-image: url("imagenes/fondomarca.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #FFFFFF;
+   padding-left: 20px;
+}
+.iconosmarca{
+    padding-left: 24px;
+}
+.logomarca{
+    padding-top: 40px;
+}
+.estilomarca{
+    color: gray;
+}
+/*----------------------------------------------------------------------------FORMULARIO*/
+li{
+    list-style: none;
+}
+.enviar1{
+    padding-top: 57px;
+}
+.enviar2 p{
+   float: right;
+   padding-top: 60px;
+}
+.enviar p{
+    text-align: left;
+}
+.solo{
+    text-align: left;
+}
+.logof{
+    margin: 0;
+    padding-bottom: 100px;
+    text-align: center;
+    width: 100%;
+}
+.formulario{
+    background-image: url("imagenes/fondoformulario.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gray;
+    font-size: 18px;
+}
+.insc {
+    color: #F47027;
+    font-size: 60px;
+}
+.estilo{
+    width: 600px;
+    border-radius: 10px;
+    border-left: 17px solid #E2620C;
+    border-top: 5px solid #E2620C;
+    border-right: 5px solid #E2620C;
+    border-bottom: 5px solid #E2620C;  
+}
+
+/*--------------------------------------------------------------------------------LANDINGPAGE PD*/
+.landingpd{
+    background-image: url("imagenes/fondolandingpd.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bolitaslp{
+   height: 5%;
+   text-align: left;
+
+}
+.textolandingpd p{
+    float: left;
+    text-align: left;
+    font-weight: bold;
+    width: 70%;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 15px;
+    font-size: 14px;
+}
+.primeraprom{
+    color: #E85B2A;
+}
+#valentina #marcela #hernan
+{
+    width: 32.5%;
+}
+
+/*---------------------------------------------------------------------------------LANDINGPAGE CM*/
+.socialbotones{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: +15;
+}
+.landinggrs{
+  font-family: 'Roboto Condensed', sans-serif;
+  background-image: url("imagenes/landingcm/grsimg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; 
+  color: #FFFFFF; 
+}
+.landingcm{
+  font-family: 'Roboto Condensed', sans-serif;
+  background-image: url("imagenes/landingcm/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; 
+  color: #FFFFFF; 
+}
+.landingcm h1{
+  font-weight: bold;
+  font-size: 65px;
+}
+.botonescm{
+    padding-bottom: 50px;
+}
+.profesorescm{
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-weight: bold;
+}
+.telefonocm{
+    font-size: 22px;
+}
+.Que{
+    font-weight: bold;
+    color: #CF7347;
+
+}
+
+/*--------------------------------------------------------PESTAÑAS*/
+.tituloBan{
+	color:#F47027;
+	font-size: 52px;
+}
+
+.intro img{
+	text-align: center;
+}
+.intro h2{
+	color:#F47027;
+}
+.todo{
+	position: relative;
+	
+	text-align: center;
+}
+.cursosText{
+	vertical-align: text-bottom;
+}
+.botones{
+	vertical-align: top;
+}
+/*----------------------------------------------------------------------CURSOS*/
+.bantextC{
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	left: 36%;
+}
+.fooPestanas{
+	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	position: relative;
+	top: +70px;
+	background-color: #F47027;	
+}
+.insta{
+	position: relative;
+	left: +8px;
+}
+.odonto{
+  font-size: 20px;
+}
+/*---------------------------------------------------------------------------------CONTACTENOS*/
+.bantextCon{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 38%;
+}
+.linea1 h3{
+    font-size: 20px;
+}
+.correo{
+	position: relative;
+	left: 65px;
+	float: right;
+	font-size: 16px;
+}
+.email{
+	position: relative;
+	left: 58px;
+}
+.redes{
+	float: right;
+	font-size: 16px;
+}
+.linea1{
+	position: relative;
+	top: 30px;
+}
+.linea2{
+	position: relative;
+	top: 60px;
+}
+.mapa{
+	text-align: center;
+	position: relative;
+	top: 120px;
+}
+.fooContacto{
+    color: #FFFFFF;
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    background-color: #F47027;	
+    top: +250px;
+
+}
+
+/*-----------------------------------------------------------------------------QUIENES SOMOS*/
+.bantextQ{
+	position: absolute;
+	text-align: center;
+	left: 50%;
+	top: 50%;
+	margin: 0 0 0 -175px;
+}
+.nosotros{
+	text-align: justify;
+}
+.nosotros h3{
+	text-align: center;
+	color: #E59122;
+}
+/*--------------------------------------------------------------------------------PREGUNTAS*/
+.bantextF{
+ position: absolute;
+ text-align: center;
+ top: 50%;
+ left: 30%;
+}
+.titulofaq{
+   color: #E59122;
+}
+/*----------------------------------------------------------------------------------------------------PFE*/
+.infoBanPFE{
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 22px;
+  
+}
+.infoBanPFE h1{
+    color: #AE8DE2;
+}
+.cuerpoPFE{
+    background-image: url("imagenes/pfe/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.fooPFE{
+    color: #5C2299;
+    font-size: 14px;
+    font-weight: medium;    
+}.pfeintro{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+/*----------------------------------------------------------------------------------------------------PDP*/
+.contenido p{
+    font-weight: 400;
+}
+.infoBanPDP{
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 22px;
+}
+.infoBanPDP h1{
+      color: #83B0FF;
+}
+.cuerpoMM h2{
+    text-align: center;
+}
+.cuerpoPDP{
+    background-image: url("imagenes/pdp/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.fooPDP{
+    color: #224077;
+    font-size: 14px;
+    background-color: #FFFFFF;
+    font-weight: medium;    
+}
+.pdptext{
+    padding-bottom: 50px;
+}
+.pdpintro{
+      color: #FFFFFF;
+    font-size: 16px;
+}
+/*---------------------------------------------------------------------------------PERIODISMO DEPORTIVO*/
+.cajaform{
+    background-color: white;
+    color: gray;
+    border-style: solid;
+    border-color: #F2F2F2;
+    border-width: 4px;
+}
+.estilo2{
+    border-radius: 5px;
+    border-left: 5px solid #A4A4A4;
+    border-top: 5px solid #A4A4A4;
+    border-right: 5px solid #A4A4A4;
+    border-bottom: 5px solid #A4A4A4; 
+    border-width: 3px; 
+}
+.perfil1 img {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    display: none;
+    z-index: +2;
+    color: #FFFFFF;
+
+}
+.perfil1:hover img {
+    display: block;
+    color: #FFFFFF;
+}
+.perfil1 h4{
+   color: #FFFFFF;
+}
+.perfil2 h4{
+   color: #FFFFFF;
+}
+.perfil1 p{
+   color: #FFFFFF;
+   font-size: 14px;
+}
+.perfil2 p{
+   color: #FFFFFF;
+   font-size: 14px;
+}
+.perfil2 img {
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    display: none;
+    z-index: +2;
+}
+.perfil2:hover img {
+    display: block;
+}
+.inicioc{
+    text-align: center;
+}
+.cursod{
+	text-align: right;
+}
+.infoBan{
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+	color: #FFFFFF;
+	text-align: left;
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	font-size: 18px;
+}
+.infoBan h1{
+    color: #EBAE29;
+}
+.banner{
+	position: relative;
+}
+.cuerpo h2{
+    text-align: center;
+}
+.cuerpo{
+	background-image: url("imagenes/fondoperiodismo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.fooPeriodismo{
+	color: #FFAE01;
+	font-size: 16px;
+	font-weight: medium;	
+}
+
+.fooPeriodismo a{
+	text-decoration: none;
+	color: #FFAE01;
+}
+
+.logi{
+	position: absolute;
+	text-align: center;
+	top: -5px;
+	left: +45px;
+}
+.fondo{
+	position: absolute;
+	top: +700px;
+}
+.metodo{
+	text-align: center;
+	font-size: 18px;
+}
+.otrop{
+	background-color: #FFFFFF;
+	width: 100%;
+}
+
+/*----------------------------------------------------------------------------------------------------PERIODISMO INTERNACIONAL*/
+.infoBanIn{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 18px;
+}
+.infoBanIn h1{
+    color: #F49E21;
+}
+.cuerpoPI{
+    background-image: url("imagenes/periodismo/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #2E2E2E;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.otropIn{
+    background-color: #F7951D;
+    width: 100%;
+}
+.fooPeriodismoIn{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: medium;    
+}
+.video{
+   width: 97%;
+}
+/*----------------------------------------------------------------------------------------------------GOOGLE ADWORDS*/
+.infoBanCM{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 18px;
+}
+.GAD h1{
+    color: #7BAC43;
+}
+.cuerpoCM h2{
+    text-align: center;
+}
+.foogad{
+    color: #7BAC43;
+    font-size: 16px;
+    text-align: center;
+    background-color: #FFFFFF;
+    font-weight: medium;    
+}
+.cuerpoGAD h2{
+    text-align: center;
+}
+.cuerpoGAD{
+    background-image: url("imagenes/googlead/fondo.jpg");
+    background-attachment:fixed; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+/*----------------------------------------------------------------------------------------------------FACEBOOK*/
+.infoBanFB{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 18px;
+}
+.FACE h1{
+    color: #264F8E;
+}
+.cuerpoFB h2{
+    text-align: center;
+}
+.foofb{
+    color: #264F8E;
+    font-size: 16px;
+    text-align: center;
+    background-color: #FFFFFF;
+    font-weight: medium;    
+}
+.cuerpoFB h2{
+    text-align: center;
+}
+.cuerpoFB{
+    background-image: url("imagenes/facebook/fondo.jpg");
+    background-attachment:fixed; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+/*----------------------------------------------------------------------------------------------------FOTOGRFIA ALIMENTOS*/
+.cuerpoFA{
+    background-image: url("imagenes/fotografia/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #2E2E2E;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.cuerpoFA h2{
+    text-align: center;
+}
+.perfil3 p{
+    color: #2E2E2E;
+   font-size: 14px;
+}
+.perfil3 img {
+    position: absolute;
+    right: -150%;
+    top: 0%;
+    display: none;
+    z-index: +2;
+}
+.perfil3 h4{
+    color: #2E2E2E;
+}
+.perfil3:hover img {
+    display: block;
+}
+.foto a{
+    color: #CC7502;
+}
+.contfoto.active:hover {
+    background-color: transparent;
+    color: #2E2E2E;
+}
+.contfoto{
+        text-align: justify;
+}
+.fotofoo{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: medium;    
+}
+/*----------------------------------------------------------------------------------------------------MANAGER MUSICAL*/
+.contenido p{
+    font-weight: 400;
+}
+.infoBanMM{
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+	color: #FFFFFF;
+	text-align: left;
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	font-size: 18px;
+}
+.infoBanMM h1{
+	color: #F77A26;
+}
+.cuerpoMM h2{
+    text-align: center;
+}
+.cuerpoMM{
+	background-image: url("imagenes/fondomusical.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.fooMusical{
+	color: #F77A26;
+	font-size: 16px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-weight: medium;	
+}
+.fooMusical a{
+	text-decoration: none;
+	color: #F77A26;
+}
+/*------------------------------------------------------------------------------------MARKETING DEPORTIVO*/
+.infoBanMD{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 18px;
+}
+.infoBanMD h1{
+    color: #FF5A06;
+}
+.cuerpoMD h2{
+    text-align: center;
+}
+.cuerpoMD{
+	background-image: url("imagenes/fondomarketing.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.fooMarketing{
+	color: #FF4000;
+	font-size: 16px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-weight: medium;	
+}
+.fooMarketing a{
+	text-decoration: none;
+	color: #FF5A19;
+}
+/*---------------------------------------------------------------------------------------------COMMUNITY MANAGER*/
+.infoBanCM{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 18px;
+}
+.infoBanCM h1{
+    color: #428ECB;
+}
+.cuerpoCM h2{
+    text-align: center;
+}
+.cuerpoCM{
+    background-image: url("imagenes/manager/fondo.jpg");
+    background-attachment:fixed; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.fooManager{
+    color: #428ECB;
+    font-size: 16px;
+    text-align: center;
+    background-color: #FFFFFF;
+    font-weight: medium;    
+}
+.fotocm a{
+    color: #FFFFFF;
+}
+.contfotocm.active:hover {
+    background-color: transparent;
+    color: #FFFFFF;
+}
+.contfotocm{
+        text-align: justify;
+}
+/*-----------------------------------------------------------------------------------------------------------PRESENTADOR DE TELEVISION*/
+.perfil1 h4{
+    color: #FFFFFF;
+}
+.perfil2 h4{
+    color: #FFFFFF;
+}
+.presen{
+    font-size: 18px;    
+}
+.infoBanPT{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 18px;
+}
+.infoBanPT h1{
+    color: #D31C09;
+}
+.cuerpoPT h2{
+    text-align: center;
+}
+.cuerpoPT{
+    background-image: url("imagenes/presentador/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.foopresen{
+    color: #D31C09;
+    font-size: 16px;
+    text-align: center;
+    background-color: #FFFFFF;
+    font-weight: medium;    
+}
+.fooMarketing a{
+    text-decoration: none;
+    color: #D31C09;
+}
+/*-------------------------------------------------------------------------------------------------------------MARKETING Y GESTION ODONTOLOGICO*/
+.infoBanMO{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 18px;
+}
+.infoBanMO h1{
+    color: #5281E2;
+}
+.cuerpoMO h2{
+    text-align: center;
+}
+.cuerpoMO{
+    background-image: url("imagenes/odontologico/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-attachment:fixed; 
+}
+.fooOdon{
+    color: #5281E2;
+    font-size: 16px;
+    text-align: center;
+    background-color: #FFFFFF;
+    font-weight: medium;    
+}
+.fooMarketing a{
+    text-decoration: none;
+    color: #F4BC4A;
+}
+/*------------------------------------------------------------------------------------------------------------------------------HOME*/
+.pdp{
+    background-color: #FF9A36;
+}
+.linea{
+    text-align: center;
+}
+.intro{
+    font-size: 20px;
+}
+.marketing{
+    font-size: 16px;
+}
+.conatiner{
+    text-align: center;
+}
+.menu{
+    background-color: #FFFFFF;
+}
+.logo{
+    position: relative;
+    top:-10px;
+}
+.banner{
+    position: relative;
+}
+
+.banner img{
+    position: relative;
+    width: 100%;
+    z-index: -1;
+    text-align: center;
+}
+.iconos{
+    padding-right: 50px;
+}
+.social{
+    padding-top: 60px;
+}
+.bantext h1{
+    color:#F47027;
+}
+
+.fooInicio{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: medium;    
+}
+.otro{
+	background-color: #F47027;
+}
+footer a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover{
+	text-decoration: none;
+	color: lightgray;
+}
+.boton1{
+	position: relative;
+	left: -17px;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------RESPONSIVE */
+@media screen and (max-width: 1050px) {
+
+     .banner{ 
+    top:+60px;
+    }
+
+    .icono{
+        width: 20%;
+        position: relative;
+        top: +40px;
+    }
+    .icono2{
+        width: 20%;
+    }
+    .icono3{
+        width: 50%;
+    }
+    .contenido{
+        font-size: 18px;
+        color: #3D3D3D;
+        position: relative;
+        top: +77px;
+        left: -70px;
+        width: 70%
+    }
+    .contenido h1{
+        font-size: 20px;
+    }
+    .cuerpo{
+        position: relative;
+        top: +200px;
+    }
+    .cuerpoMM{
+        position: relative;
+        top: +200px;
+    }
+    .cuerpoMD{
+        position: relative;
+        top: +200px;
+    }
+    .cuerpoCM{
+        position: relative;
+        top: +300px;
+    }
+     .cuerpoGAD{
+        position: relative;
+        top: +300px;
+    }
+    .cuerpoPT{
+        position: relative;
+        top: +300px;
+    }
+    .cuerpoMO{
+        position: relative;
+        top: +300px;
+    }
+    .cuerpoPDP{
+        position: relative;
+        top: +200px;
+    }
+      .cuerpoPFE{
+        position: relative;
+        top: +200px;
+    }
+    .cuerpoPI{
+        position: relative;
+        top: +400px;
+    }
+    .cuerpoFA{
+        position: relative;
+        top: +300px;
+    }
+    .botones{
+        font-size: 10px;
+        width: 350px;
+    }
+    .fooMarketing{
+        position: relative;
+        top: +200px;
+    }
+    .fooOdon{
+        position: relative;
+        top: +200px;
+    }
+    .foopresen{
+        position: relative;
+        top: +200px;
+    }
+    .fooPeriodismo{
+        position: relative;
+        top: +200px;
+    }
+    .fooPeriodismoIn{
+        position: relative;
+        top: +400px;
+    }
+    .fooMusical{
+        position: relative;
+        top: +200px;
+    }
+    .fooManager{
+        position: relative;
+        top: +300px;
+    }
+    .fooPDP{
+        position: relative;
+        top: +300px;
+    }
+     .fooPFE{
+        position: relative;
+        top: +300px;
+    }
+    .logi{
+        position: relative;
+        left: +40px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .banner{ 
+    top:+50px;
+    }
+
+    .insc{
+        font-size: 40px;
+        text-align: left;
+    }
+    .estilo{
+     width: 250px;
+     font-size: 12px;
+ }   
+ .bantext h3{
+    position: relative;
+    font-size: 20px;
+    padding-right: 55px;
+    padding-top: 50px;
+}
+.bantext h1{
+    position: relative;
+    font-size: 20px;
+    padding-right: 50px;
+}
+.bantextQ h1 {
+    font-size: 30px;
+}
+.bantextN h1 {
+    font-size: 30px;
+}
+.bantextC h1 {
+    font-size: 30px;
+}
+.bantextF h1 {
+    font-size: 30px;
+}
+.icono{
+    width: 20%;
+    position: relative;
+    top: +80px;
+}
+.icono2{
+    width: 50%;
+}
+.icono3{
+    width: 50%;
+}
+.contenido{
+    font-size: 14px;
+    color: #3D3D3D;
+    position: relative;
+    top: +90px;
+    width: 100%;
+}
+.contenido h1{
+    font-size: 20px;
+}
+.cuerpo{
+    position: relative;
+    top: +260px;
+}
+.cuerpoMM{
+    position: relative;
+    top: +260px;
+}
+.cuerpoMD{
+    position: relative;
+    top: +240px;
+}
+.cuerpoCM{
+    position: relative;
+    top: +350px;
+}
+.cuerpoGAD{
+    position: relative;
+    top: +300px;
+}
+.cuerpoPT{
+    position: relative;
+    top: +250px;
+}
+.cuerpoMO{
+    position: relative;
+    top: +250px;
+}
+.cuerpoPDP{
+    position: relative;
+    top: +350px;
+}
+.cuerpoPFE{
+    position: relative;
+    top: +400px;
+}
+.cuerpoPI{
+    position: relative;
+    top: +90px;
+}
+.cuerpoFA{
+    position: relative;
+    top: +350px;
+}
+  .botones{
+        font-size: 10px;
+    }
+.fooMarketing{
+    position: relative;
+    top: +250px;
+}
+.fooOdon{
+    position: relative;
+    top: +250px;
+}
+.foopresen{
+    position: relative;
+    top: +250px;
+}
+.fooPeriodismo{
+    position: relative;
+    top: +250px;
+}
+.fooPeriodismoIn{
+    position: relative;
+    top: +450px;
+}
+.fooMusical{
+    position: relative;
+    top: +250px;
+}
+.fooManager{
+    position: relative;
+    top: +350px;
+}
+.fooPDP{
+    position: relative;
+    top: +350px;
+}
+.fooPFE{
+    position: relative;
+    top: +400px;
+}
+}
+@media screen and (max-width: 400px) {
+
+    .banner{ 
+    top:+70px;
+    }
+
+    .todo{
+        top: +50px;
+    }
+
+  .bantext h3{
+    position: relative;
+    font-size: 20px;
+    padding-right: 55px;
+    top: -95px;
+}
+.bantext h1{
+    position: relative;
+    font-size: 18px;
+    padding-right: 50px;
+}
+
+.bantext h1 {
+    font-size: 20px;
+    position: relative;
+    top: -90px;
+}
+.bantextQ h1 {
+    font-size: 30px;
+    position: absolute;
+    left: +120px;
+    top: +85px;
+}
+.bantextN h1 {
+    font-size: 30px;
+    position: relative;
+    top: +85px;
+}
+.bantextC h1 {
+    font-size: 30px;
+    position: absolute;
+    left: -20px;
+    top: +70px;
+}
+.bantextF h1 {
+    font-size: 30px;
+    position: absolute;
+    left: -20px;
+}
+.icono{
+    width: 20%;
+    position: relative;
+    top: +120px;
+}
+.iconoGAD{
+    width: 40%;
+    position: relative;
+    top: -45px;
+}
+.iconop{
+    width: 20%;
+    position: relative;
+    top: +135px;
+}
+.iconopd{
+    width: 20%;
+    position: relative;
+    top: +85px;
+}
+.icono2{
+    width: 50%;
+     top: +120px;
+}
+.icono3{
+    width: 50%;
+     top: +120px;
+}
+.contenido{
+    font-size: 12px;
+    color: #3D3D3D;
+    position: relative;
+    top: +110px;
+    width: 100%;
+}
+.GAD{
+    font-size: 12px;
+    color: #3D3D3D;
+    position: relative;
+    top: -20px;
+    width: 100%;
+}
+
+.contenidopd{
+    font-size: 12px;
+    color: #3D3D3D;
+    position: relative;
+    top: +80px;
+    width: 100%;
+}
+
+.contenidopd h1{
+    font-size: 16px;
+}
+.contenido h1{
+    font-size: 16px;
+}
+.cuerpo{
+    position: relative;
+    top: +330px;
+}
+.cuerpoMM{
+    position: relative;
+    top: +300px;
+}
+.cuerpoMD{
+    position: relative;
+    top: +250px;
+}
+.cuerpoCM{
+    position: relative;
+    top: +350px;
+}
+.cuerpoGAD{
+    position: relative;
+    top: +350px;
+}
+.cuerpoPT{
+    position: relative;
+    top: +250px;
+}
+.cuerpoMO{
+    position: relative;
+    top: +330px;
+}
+.cuerpoPDP{
+    position: relative;
+    top: +250px;
+}
+.cuerpoPFE{
+    position: relative;
+    top: +380px;
+}
+.cuerpoPI{
+    position: relative;
+    top: +350px;
+}
+.cuerpoFA{
+    position: relative;
+    top: +350px;
+}
+  .botones{
+        font-size: 10px;
+    }
+.fooMarketing{
+    position: relative;
+    top: +250px;
+}
+.fooOdon{
+    position: relative;
+    top: +250px;
+}
+.foopresen{
+    position: relative;
+    top: +250px;
+}
+.fotofoo{
+    position: relative;
+    top: -30px;
+}
+.fooInicio{
+    position: relative;
+    top: +50px;
+}
+.fooPeriodismo{
+    position: relative;
+    top: +350px;
+}
+.fooPeriodismoIn{
+    position: relative;
+    top: +350px;
+}
+
+.fooMusical{
+    position: relative;
+    top: +250px;
+}
+.fooManager{
+    position: relative;
+    top: +350px;
+}
+.fooPDP{
+    position: relative;
+    top: +350px;
+}
+.fooPFE{
+    position: relative;
+    top: +400px;
+}
+.logi{
+    left: -20px;
+}
+
+}
+/* --- responsive tabs*/
+
+
+ul.resp-tabs-list, p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.resp-tabs-list li {
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
+    padding: 13px 15px;
+    margin: 0 4px 0 0;
+    list-style: none;
+    cursor: pointer;
+    float: left;
+}
+
+.resp-tabs-container {
+    padding: 0px;
+    background-color: #fff;
+    clear: left;
+}
+
+h2.resp-accordion {
+    cursor: pointer;
+    padding: 5px;
+    display: none;
+}
+
+.resp-tab-content {
+    display: none;
+    padding: 15px;
+}
+
+.resp-tab-active {
+    border: 1px solid #5AB1D0 !important;
+    border-bottom: none;
+    margin-bottom: -1px !important;
+    padding: 12px 14px 14px 14px !important;
+    border-top: 4px solid #5AB1D0 !important;
+    border-bottom: 0px #fff solid !important;
+}
+
+.resp-tab-active {
+    border-bottom: none;
+    background-color: #fff;
+}
+
+.resp-content-active, .resp-accordion-active {
+    display: block;
+}
+
+.resp-tab-content {
+    border: 1px solid #c1c1c1;
+    border-top-color: #5AB1D0;
+}
+
+h2.resp-accordion {
+    font-size: 13px;
+    border: 1px solid #c1c1c1;
+    border-top: 0px solid #c1c1c1;
+    margin: 0px;
+    padding: 10px 15px;
+}
+
+h2.resp-tab-active {
+    border-bottom: 0px solid #c1c1c1 !important;
+    margin-bottom: 0px !important;
+    padding: 10px 15px !important;
+}
+
+h2.resp-tab-title:last-child {
+    border-bottom: 12px solid #c1c1c1 !important;
+    background: blue;
+}
+
